@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "RESOLVER",
+  "base_artist": "LUMiRiSE",
+  "createdAt": "2026-02-07T13:49:19.788124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Resolver",
+      "artist": "Viscera",
+      "has_synced": true,
+      "path": "select/01_Resolver_Viscera.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Resolver",
+      "artist": "Giant Sand",
+      "has_synced": true,
+      "path": "select/02_Resolver_Giant_Sand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sin Resolver",
+      "artist": "Shoda Monkas",
+      "has_synced": true,
+      "path": "select/03_Sin_Resolver_Shoda_Monkas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deixa pra deus resolver",
+      "artist": "Elza Soares",
+      "has_synced": true,
+      "path": "select/04_Deixa_pra_deus_resolver_Elza_Soares.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deixa pra deus resolver",
+      "artist": "Soares, Elza",
+      "has_synced": true,
+      "path": "select/05_Deixa_pra_deus_resolver_Soares,_Elza.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Resolver",
+      "artist": "mvrk",
+      "has_synced": false,
+      "path": "select/06_Resolver_mvrk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Resolver",
+      "artist": "Edivaldo Prince",
+      "has_synced": false,
+      "path": "select/07_Resolver_Edivaldo_Prince.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MISTERIO A RESOLVER",
+      "artist": "Martin Urieta",
+      "has_synced": false,
+      "path": "select/08_MISTERIO_A_RESOLVER_Martin_Urieta.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RESOLVER",
+      "artist": "LUMiRiSE",
+      "has_synced": false,
+      "path": "select/pl_01_RESOLVER_LUMiRiSE.txt"
+    }
+  ]
+}
